@@ -95,7 +95,7 @@ These aren't buzzwords on my resume — they're how I think and build every day.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelGab&layout=compact&theme=calm&title_color=1B6CA8&border_color=1B4F72"/>
@@ -104,7 +104,7 @@ These aren't buzzwords on my resume — they're how I think and build every day.
 
 ---
 
-## 💼 What I Bring to a Team
+## What I Bring to a Team
 
 - ✅ **5+ years** building enterprise Java / Spring Boot applications
 - ✅ Deep experience with **Oracle & PostgreSQL** — schema design, query optimization, migrations
@@ -115,7 +115,7 @@ These aren't buzzwords on my resume — they're how I think and build every day.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm **open to new opportunities**, especially roles focused on **backend engineering**, **software architecture**, or **full-stack product development** in the US market.
 
